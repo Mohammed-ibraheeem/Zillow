@@ -1,0 +1,156 @@
+.d1 {
+  display: flex;
+  justify-content: center;
+}
+.d1 a {
+  display: flex;
+  justify-content: center;
+  font-size: x-small;
+}
+
+.d1 p {
+  font-size: x-small;
+  width: 45%;
+}
+.d2 {
+  display: flex;
+  justify-content: center;
+}
+.d2 p {
+  font-size: x-small;
+}
+
+.a1 {
+  display: flex;
+  justify-content: center;
+}
+.a2 {
+  display: flex;
+  justify-content: center;
+}
+.a3 {
+  font-size: medium;
+  display: flex;
+  justify-content: center;
+}
+.s1 {
+  display: flex;
+  justify-content: center;
+}
+.s2 {
+  display: flex;
+  justify-content: center;
+}
+.d3 {
+  display: flex;
+  justify-content: center;
+}
+.d3 p {
+  text-align: center;
+  font-size: x-small;
+  display: flex;
+  justify-content: center;
+  width: 46%;
+}
+.d4 {
+  display: flex;
+  justify-content: center;
+}
+.i1 {
+  width: 96;
+  height: 32;
+  padding: 5px;
+}
+.i2 {
+  width: 108;
+  height: 32;
+  padding: 5px;
+}
+.i3 {
+  width: 152px;
+  height: 32px;
+}
+.sp1 {
+  padding: 10px;
+}
+.imm1 {
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+}
+.imm2 {
+  width: 35px;
+  height: 35px;
+  padding: 2px;
+}
+.imm3 {
+  width: 30px;
+  height: 30px;
+  padding: 3px;
+}
+.imm4 {
+  width: 50px;
+  height: 35px;
+  padding: 1px;
+}
+.sp1 {
+  font-size: small;
+}
+.imm5 {
+  width: 35px;
+  height: 35px;
+  padding: 1px;
+}
+.d6 {
+  text-align: center;
+}
+.d5 {
+  display: flex;
+  justify-content: center;
+}
+@media screen and (min-width: 1150px) and (max-width: 1250px) {
+  .d1 p {
+    width: 52%;
+  }
+  .d3 p {
+    width: 53%;
+  }
+}
+@media screen and (min-width: 1000px) and (max-width: 1150px) {
+  .d1 p {
+    width: 62%;
+  }
+  .d3 p {
+    width: 63%;
+  }
+}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  .d1 p {
+    width: 72%;
+  }
+  .d3 p {
+    width: 73%;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 900px) {
+  .d1 p {
+    width: 82%;
+  }
+  .d3 p {
+    width: 83%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .d1 p {
+    width: 92%;
+  }
+  .d3 p {
+    width: 93%;
+  }
+  .d2 p {
+    width: 93%;
+  }
+  .d5 {
+    width: 98%;
+  }
+}

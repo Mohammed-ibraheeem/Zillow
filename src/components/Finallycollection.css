@@ -1,0 +1,29 @@
+.di1 {
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+}
+.di1 ul li a {
+  color: black;
+  font-size: 14px;
+}
+.di2 {
+  display: flex;
+  justify-content: center;
+}
+.di2 ul li a {
+  color: black;
+  font-size: 14px;
+}
+.di3 {
+  text-align: center;
+  font-size: 16px;
+}
+.di3 ul {
+  display: block;
+  margin: 0 auto;
+}
+.di3 ul li a {
+  color: blueviolet;
+  font-size: 14px;
+}

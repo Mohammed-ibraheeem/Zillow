@@ -1,0 +1,31 @@
+#h {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+.di {
+  height: 400px;
+  background-image: url(../components/images/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.t {
+  display: block;
+  margin: auto;
+  display: block;
+  width: 600px;
+  height: 60px;
+}
+@media screen and (max-width: 625px) {
+  .t {
+    width: 400px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .t {
+    width: 300px;
+  }
+}
