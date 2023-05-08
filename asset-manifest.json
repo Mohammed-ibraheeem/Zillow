@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Zillow/static/css/main.35cd0b35.css",
+    "main.js": "/Zillow/static/js/main.1e2d113a.js",
+    "static/js/787.82d6579d.chunk.js": "/Zillow/static/js/787.82d6579d.chunk.js",
+    "static/media/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.jpg": "/Zillow/static/media/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.4e50188cf2c0a3525551.jpg",
+    "static/media/-cc_ft_1344.jpg": "/Zillow/static/media/565a952d809076a47e7e4054a0a9ec64-cc_ft_1344.3c61840c4050f452aac5.jpg",
+    "static/media/blue+instagram+icon.png": "/Zillow/static/media/blue+instagram+icon.2eb0b109daea0fb98bab.png",
+    "static/media/-cc_ft_1152.webp": "/Zillow/static/media/af6fd4b0bffd1f044850683abe6f3d37-cc_ft_1152.f8c369cde821409bab21.webp",
+    "static/media/-p_e.jpg": "/Zillow/static/media/e27e5b4b47286090c57db68aa24e9d0b-p_e.4813cda7e416d115d2fb.jpg",
+    "static/media/Sell_a_home.png": "/Zillow/static/media/Sell_a_home.5e1cf50ef352d4567070.png",
+    "static/media/Rent_a_home.png": "/Zillow/static/media/Rent_a_home.afd7a29eeb4c35a59580.png",
+    "static/media/Buy_a_home.png": "/Zillow/static/media/Buy_a_home.9946744910fe076dfc6b.png",
+    "static/media/2021_Facebook_icon.svg.png": "/Zillow/static/media/2021_Facebook_icon.svg.0943a8b049415ed22a05.png",
+    "static/media/Twitter-Logosu.png": "/Zillow/static/media/Twitter-Logosu.da6db718c5d46dec9f64.png",
+    "static/media/Home_icon_blue-1.png": "/Zillow/static/media/Home_icon_blue-1.7e10d51094e6248f7aed.png",
+    "index.html": "/Zillow/index.html",
+    "main.35cd0b35.css.map": "/Zillow/static/css/main.35cd0b35.css.map",
+    "main.1e2d113a.js.map": "/Zillow/static/js/main.1e2d113a.js.map",
+    "787.82d6579d.chunk.js.map": "/Zillow/static/js/787.82d6579d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35cd0b35.css",
+    "static/js/main.1e2d113a.js"
+  ]
+}
