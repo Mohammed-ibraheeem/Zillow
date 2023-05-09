@@ -51,3 +51,25 @@
     margin-left: 3px;
   }
 }
+@media screen and (max-width: 477px) {
+  .p img {
+    width: 70px;
+    height: 90px;
+    margin-top: 120px;
+    margin-left: 3px;
+  }
+  .im1 {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 342px) {
+  .p img {
+    width: 40px;
+    height: 60px;
+    margin-top: 150px;
+    margin-left: 3px;
+  }
+  .im1 {
+    margin-left: 10px;
+  }
+}
