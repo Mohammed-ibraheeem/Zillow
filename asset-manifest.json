@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Zillow/static/css/main.35cd0b35.css",
+    "main.css": "/Zillow/static/css/main.8b398d63.css",
     "main.js": "/Zillow/static/js/main.1e2d113a.js",
     "static/js/787.82d6579d.chunk.js": "/Zillow/static/js/787.82d6579d.chunk.js",
     "static/media/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.jpg": "/Zillow/static/media/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.4e50188cf2c0a3525551.jpg",
@@ -15,12 +15,12 @@
     "static/media/Twitter-Logosu.png": "/Zillow/static/media/Twitter-Logosu.da6db718c5d46dec9f64.png",
     "static/media/Home_icon_blue-1.png": "/Zillow/static/media/Home_icon_blue-1.7e10d51094e6248f7aed.png",
     "index.html": "/Zillow/index.html",
-    "main.35cd0b35.css.map": "/Zillow/static/css/main.35cd0b35.css.map",
+    "main.8b398d63.css.map": "/Zillow/static/css/main.8b398d63.css.map",
     "main.1e2d113a.js.map": "/Zillow/static/js/main.1e2d113a.js.map",
     "787.82d6579d.chunk.js.map": "/Zillow/static/js/787.82d6579d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35cd0b35.css",
+    "static/css/main.8b398d63.css",
     "static/js/main.1e2d113a.js"
   ]
 }
