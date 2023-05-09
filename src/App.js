@@ -15,9 +15,7 @@ function App() {
       <Firstcollection />
       <Secendcollection />
       <div className="b11">
-
         <Bar />
-
         <hr />
         <Finallycollection />
         <hr />
